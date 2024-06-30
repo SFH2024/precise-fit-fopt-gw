@@ -1,1 +1,1 @@
-You can download this repository files. Then you can generate the precise fit of gravitational waves spectrum of sound waves for the first order phase transition using the {\tt Python} and {\tt Mathematica} files.
+You can download this repository files. Then you can generate the precise fit of gravitational waves spectrum of sound waves for the first order phase transition using the {\bf Python} and {\bf Mathematica} files.
